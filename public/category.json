@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "category": "chair"
+    },
+    {
+        "id": 1,
+        "category": "sofa"
+    },
+    {
+        "id": 2,
+        "category": "lamp"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "bg": "/src/assets/review/bg-review-1.png",
+        "profile": "/src/assets/profile/profile-1.png",
+        "name": "Bang Upin",
+        "location": "Pedagang Asongan",
+        "review": "Terimakasih banyak, kini ruanganku menjadi lebih mewah dan terlihat mahal"
+    },
+    {
+        "id": 1,
+        "bg": "/src/assets/review/bg-review-2.png",
+        "profile": "/src/assets/profile/profile-2.png",
+        "name": "Ibuk Sukijan",
+        "location": "Ibu Rumah Tangga",
+        "review": "Makasih Panto, aku sekarang berasa tinggal di apartment karena barang-barang yang terlihat mewah"
+    },
+    {
+        "id": 2,
+        "bg": "/src/assets/review/bg-review-3.png",
+        "profile": "/src/assets/profile/profile-3.png",
+        "name": "Mpok Ina",
+        "location": "Karyawan Swasta",
+        "review": "Sangat terjangkau untuk kantong saya yang tidak terlalu banyak"
+    },
+    {
+        "id": 3,
+        "bg": "/src/assets/review/bg-review-1.png",
+        "profile": "/src/assets/profile/profile-1.png",
+        "name": "Pongsakan fluk",
+        "location": "Samut Prakan",
+        "review": "Terimakasih banyak, kini ruanganku menjadi lebih mewah dan terlihat mahal"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "id": 0,
+        "category": "chair",
+        "url": "/src/assets/product/chair-1.jpg",
+        "price": "17.00",
+        "des": "chair text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Chair-01"
+    },
+    {
+        "id": 1,
+        "category": "chair",
+        "url": "/src/assets/product/chair-2.jpg",
+        "price": "16.00",
+        "des": "chair text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Chair-02"
+    },
+    {
+        "id": 2,
+        "category": "chair",
+        "url": "/src/assets/product/chair-3.jpg",
+        "price": "18.00",
+        "des": "chair text  dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Chair-03"
+    },
+    {
+        "id": 3,
+        "category": "chair",
+        "url": "/src/assets/product/chair-4.jpg",
+        "price": "17.00",
+        "des": "chair dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Chair-04"
+    },
+    {
+        "id": 4,
+        "category": "lamp",
+        "url": "/src/assets/product/lamp-1.jpg",
+        "price": "15.00",
+        "des": "lamp text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Lamp-01"
+    },
+    {
+        "id": 5,
+        "category": "lamp",
+        "url": "/src/assets/product/lamp-2.jpg",
+        "price": "18.00",
+        "des": "lamp dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Lamp-02"
+    },
+    {
+        "id": 6,
+        "category": "lamp",
+        "url": "/src/assets/product/lamp-3.jpg",
+        "price": "20.00",
+        "des": "lamp dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Lamp-03"
+    },
+    {
+        "id": 7,
+        "category": "sofa",
+        "url": "/src/assets/product/sofa-1.jpg",
+        "price": "18.00",
+        "des": "Sofa text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Sofa-01"
+    },
+    {
+        "id": 8,
+        "category": "sofa",
+        "url": "/src/assets/product/sofa-2.jpg",
+        "price": "17.00",
+        "des": "sofa text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Sofa-02"
+    },
+    {
+        "id": 9,
+        "category": "sofa",
+        "url": "/src/assets/product/sofa-3.jpg",
+        "price": "21.00",
+        "des": "Sofa text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Sofa-03"
+    },
+    {
+        "id": 10,
+        "category": "sofa",
+        "url": "/src/assets/product/sofa-4.jpg",
+        "price": "19.00",
+        "des": "Sofa text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Sofa-04"
+    },
+    {
+        "id": 11,
+        "category": "sofa",
+        "url": "/src/assets/product/sofa-5.jpg",
+        "price": "17.00",
+        "des": "Sofa text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Sofa-05"
+    },
+    {
+        "id": 12,
+        "category": "sofa",
+        "url": "/src/assets/product/sofa-6.jpg",
+        "price": "17.00",
+        "des": "Sofa text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Sofa-06"
+    }
+]
